@@ -1,4 +1,6 @@
-scikit-learn
 matplotlib
-nltk
-gensim
+pandas
+requests
+BeautifulSoup
+numpy
+scikit-learn
